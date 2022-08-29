@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637710129093",
+    "project_id": "uploadtocloud-20d69",
+    "storage_bucket": "uploadtocloud-20d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637710129093:android:555bea346c7189c9ce1dac",
+        "android_client_info": {
+          "package_name": "com.gerald.uploadtocloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637710129093-b41bdvinfmjdh11bna22va2q5hdindou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUclQ6tmYPRFB55_ZyAi5Zev_P685p1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637710129093-b41bdvinfmjdh11bna22va2q5hdindou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
